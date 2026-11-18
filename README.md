@@ -8,3 +8,4 @@ modified: 2026-11-16T14:21:23-08:00
 ## Gist URL's
 - [🤖❓Are there any PowerShell scripts for Artifactory · GitHub](https://gist.github.com/ericziko/283bbd50426072d35c2c1392c0a53507)
 - [🤖❓Give me some tips for managing swap files in Vim · GitHub](https://gist.github.com/ericziko/c0243bdcf41d7adcfbfe2a61f01c9c7c)
+- https://gist.github.com/ericziko/1ee6ec2f02df4c2e2982f3890b6a3145
